@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fazercraft
+- 👋 Hi, I’m @filipeacurcio
 - 👀 I’m interested in sports, music, gaming, coding
-- 🌱 I’m currently learning computer engineering
+- 🌱 I’m graduated in computer engineering
 
 <!---
 fazercraft/fazercraft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
